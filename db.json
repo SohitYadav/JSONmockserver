@@ -1,4 +1,4 @@
-[
+{"doctors":[
 	{
 	  "name": "Jane Doe",
 	  "image": "https://example.com/doctor-image.jpg",
@@ -19,4 +19,4 @@
 		"slots" : 1,
 	  "fee": 100
 	}
-]
+]}
